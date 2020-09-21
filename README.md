@@ -1,12 +1,12 @@
-# Absorption Signal-to-Noise Ratio (SNR)
+# Cold atom imaging
 <hline>
-A simple module for estimating signal-to-noise ratio (SNR) in the context of resonant absorption imaging. The SNR corresponds to the extracted column density of a cold atomic cloud.
+A continually growing repository for various numerical utilities relevant in cold (and ultracold) atomic gas imaging.
  
-Instructions:
+## Instructions:
 
 1. Clone the repository using:
-``` git clone htttps://github.com/pacosalces/absorption_SNR.git```
+``` git clone htttps://github.com/pacosalces/cold_atom_imaging.git <YOUR_LOCAL_PATH>```
 
-2. Run the ```python absorption_snr.py``` script, and start experimenting! 
+## Contact and support
 
 Contributions welcome! Ideally open an issue if you run into trouble!
