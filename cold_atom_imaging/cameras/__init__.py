@@ -2,8 +2,8 @@ from physunits import um, s
 pe = 1.0
 
 FLEA3 = {
-    'sensor':'CCD-ICX618'
-    'model':'FL3-FW-03S1C/M-C'
+    'sensor':'CCD-ICX618',
+    'model':'FL3-FW-03S1C/M-C',
     'quantum_efficiency':0.3, 
     'max_well_depth': 23035.06*pe,
     'pixel_size': 5.6*um,
